@@ -1,0 +1,64 @@
+body{
+background:darkcyan;
+
+}
+.header_div{
+background-color: lightblue;
+color: darkred;
+font-family: 'RocknRoll One', sans-serif;
+}
+.header_div img{
+width: 100px;
+height: 100px;
+border-radius: 80px;
+border:5px solid darkred;
+
+}
+.main_div{
+background-color: aqua;
+padding: 10px;
+margin-top: 15px;
+border:  5px solid darkred;
+}
+.main_div label{
+background-color: hotpink;
+width: 300px;
+padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px 18px darkviolet;
+}
+#camera,#result{
+border:2px solid lightcoral;
+width: 300px;
+height: 300px;
+box-shadow:5px 5px 18px darkviolet;
+}
+.main_div button{
+width: 320px;
+font-size: 18px;
+border:1px solid black;
+margin-top: 15px;
+}
+.footer_div{
+margin-bottom: 50px;
+
+}
+.footer_div h4{
+background:hotpink;
+border-radius: 20px;
+padding: 5px;
+box-shadow: 5px 5px 18px white;
+}
+.footer_div img{
+width:70px;
+}
+.copy_right_footer{
+position: fixed;
+color: darkred;
+bottom: 0;
+width: 100%;
+background-color: lightskyblue;
+text-align: center;
+line-height: 3;
+font-size: 20px;
+}
